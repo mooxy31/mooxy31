@@ -24,8 +24,8 @@ Programmeren beter begrijpen en toepassen
 
 Contact
 qimosun1@gmail.com
-github.com/mooxy31
-\
+github.com/mooxy31/
+
 
 <!--
 **mooxy31/mooxy31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
